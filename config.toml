@@ -15,7 +15,7 @@
 baseURL = "https://jjy821.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "MEMORTYE"
+title = "MEMORYTE"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -45,7 +45,7 @@ canonifyurls = true
 # ------
 [author]
   name = "Racheal"
-  bio = "jjy821"
+  bio = "@Cashwalk"
   job = "Backend Developer"
   location = "Seoul"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
