@@ -25,5 +25,5 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-git push oriin master
+git push origin master
 
