@@ -1,0 +1,8 @@
+[submodule "publi"]
+	path = publi
+	url = https://github.com/haneulee/haneulee.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/jjy821/jjy821.github.io.git
+	branch = main
